@@ -1,0 +1,1 @@
+# Portion A in the paper: Thresholding serves to simplify the covariance matrix by setting  small correlations, those consideresd to be noise, to zero, which can be beneficial in terms of computational efficiency and interpretability, but can discard potentially valuable information. 

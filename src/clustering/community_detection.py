@@ -1,0 +1,1 @@
+# Section B in the paper: modified spectral clustering motivated by community detection algorithms developed by Newman

@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "vanguard-portfolio-optimization"
+version = "0.1.0"
+description = "solving a PO problem using a decomposition pipeline that clusters the original problem into sub-problems which can be solved with heuristic quantum algotithms"
+authors = ["zeapsu <andryypaez@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+numpy = "^2.3.1"
+pennylane = "^0.42.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

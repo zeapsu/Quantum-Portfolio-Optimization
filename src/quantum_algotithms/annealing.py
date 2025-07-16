@@ -1,0 +1,1 @@
+# Annealing logic as a class

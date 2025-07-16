@@ -1,0 +1,1 @@
+# Marchenko-Pastur (MP) Distribution and RMT to extract relevant signals from noise. Largest/smallest eigenvalue are refitted to then represent a bound. The upper edge of the Marchenko-Pastur density can seve as a threshold to identify the noisy part of the correlation matrix. 

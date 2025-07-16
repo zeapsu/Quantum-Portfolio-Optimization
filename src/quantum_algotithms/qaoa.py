@@ -1,0 +1,1 @@
+# QAOA logic as a class

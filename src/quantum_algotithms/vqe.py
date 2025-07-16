@@ -1,0 +1,1 @@
+# VQE logic as a class
